@@ -2,6 +2,8 @@
 
 ## Description
 
+Live Link: (https://gavpo.github.io/password-gen/)
+
 This application was made to generate passwords for multiple users to use for their accounts. I learned a lot about loops and appending items to strings in this activity. I ran into multiple problems trying to get my encrypted password out of my while loop, but I realized that it was my return statements taking me out of my loop prematurely.
 
 
